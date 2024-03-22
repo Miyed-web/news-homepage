@@ -24,6 +24,8 @@ button{
 p,ul li{
   font-weight: 400;
 }
+p{
+  color:var(--grayishblue);}
 .container {
   min-height: 100vh;
   width: 100vw;
