@@ -25,7 +25,17 @@ p,ul li{
   font-weight: 400;
 }
 p{
-  color:var(--grayishblue);}
+  color: var(--darkgrayishblue);
+}
+.right .card h1:hover{
+  color: var(--softorange);
+}
+.paragraph button:hover{
+ background: var(--verydarkblue);
+}
+ul li:hover,.content .details h3:hover {
+  color:var(--softred) ;
+}
 .container {
   min-height: 100vh;
   width: 100vw;
